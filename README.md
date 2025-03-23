@@ -1,9 +1,9 @@
 # 🐦 Audio Classification using CNN  
 
-This project focuses on **classifying bird sounds** from the **FSC22 Dataset** by converting audio signals into **spectrograms** and applying **CNN-based image classification** techniques to identify different bird species.  
+This project focuses on **classifying bird sounds** from the **kaggle Dataset** by converting audio signals into **mel-spectrograms** and applying **CNN-based image classification** techniques to identify different bird species.  
 
 ## 📂 Dataset  
-For the dataset, refer to the **[FSC22 Dataset](https://www.kaggle.com/datasets/irmiot22/fsc22-dataset)** on Kaggle.  
+For the dataset, refer to the **[Sound of Bird species](https://www.kaggle.com/code/soumyasavarn/sound-of-114-species-of-birds-classification)** on Kaggle.  
 
 ## Approach  
 1. **Convert audio recordings** into spectrogram images.  
